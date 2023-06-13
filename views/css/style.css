@@ -1,0 +1,33 @@
+/* Allgemeine Stile für den Körper */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 20px;
+  background-color: #f2f2f2;
+}
+
+/* Stile für die Überschriften */
+h1, h2 {
+  color: #333;
+}
+
+/* Stile für den Inhalt */
+p {
+  color: #666;
+}
+
+/* Stile für die nummerierte Liste */
+ol {
+  color: #888;
+  margin-left: 20px;
+}
+
+/* Stile für Links */
+a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
